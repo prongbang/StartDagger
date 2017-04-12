@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StartDagger</string>
+    <string name="user_service_url">http://10.200.0.22:8888/api/v1/</string>
+    <string name="post_service_url">http://10.200.0.22:8888/api/v1/</string>
+
+    <string name="label_unauthorized">Unauthorized</string>
+</resources>
